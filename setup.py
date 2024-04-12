@@ -145,7 +145,7 @@ setup(
         'parse>=1.20.0',
         'parse-type>=0.6.2',
         "six==1.16.0",
-        "idna==3.6",
+        "idna==3.7",
         'chardet==5.2.0',
         'charset-normalizer==3.3.2',
         'urllib3>=1.26.18,<2;python_version<"3.10"',
