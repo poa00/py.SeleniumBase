@@ -169,7 +169,7 @@ setup(
         'charset-normalizer==3.3.2',
         'urllib3>=1.26.18,<2;python_version<"3.10"',
         'urllib3>=1.26.18,<2.3.0;python_version>="3.10"',
-        'requests==2.31.0',
+        'requests==2.32.2',
         "pynose==1.5.1",
         'sniffio==1.3.1',
         'h11==0.14.0',
